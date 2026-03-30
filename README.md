@@ -38,6 +38,7 @@ A powerful, highly optimized, and multi-threaded CLI tool to scan and find the l
 ```bash
 git clone [https://github.com/murtaza-codes/cloudflare-scanner-pro.git](https://github.com/murtaza-codes/cloudflare-scanner-pro.git)
 cd cloudflare-scanner-pro
+```
 
 2. Install requirements (Windows / Linux / macOS):
 pip install rich
@@ -69,15 +70,18 @@ cd cloudflare-scanner-pro
 pip install rich
 
 📱 برای اندروید (برنامه Termux):
+```bash
+
 pkg update && pkg upgrade
 pkg install python git
 git clone [https://github.com/murtaza-codes/cloudflare-scanner-pro.git](https://github.com/murtaza-codes/cloudflare-scanner-pro.git)
 cd cloudflare-scanner-pro
 pip install rich
-
+```
 ۳. اجرای اسکنر:
+```bash
 python pro_scanner.py
-
+```
 🇨🇳 中文
 一款强大、高度优化且支持多线程的 CLI 工具，用于扫描并找到延迟最低的干净 Cloudflare IP。非常适合配合 V2Ray、Xray、Trojan 和 WireGuard 等协议绕过网络限制。
 ✨ 主要功能
@@ -88,22 +92,27 @@ python pro_scanner.py
  * 🔄 高度自定义： 自由指定目标端口（如 443）和要扫描的 IP 数量。
 ⚙️ 安装与使用
 1. 克隆代码库：
+```bash
+
 git clone [https://github.com/murtaza-codes/cloudflare-scanner-pro.git](https://github.com/murtaza-codes/cloudflare-scanner-pro.git)
 cd cloudflare-scanner-pro
-
+```
 2. 安装依赖 (Windows / Linux / macOS):
 pip install rich
 
 📱 安卓手机 (Termux):
+```bash
+
 pkg update && pkg upgrade
 pkg install python git
 git clone [https://github.com/murtaza-codes/cloudflare-scanner-pro.git](https://github.com/murtaza-codes/cloudflare-scanner-pro.git)
 cd cloudflare-scanner-pro
 pip install rich
-
+```
 3. 运行扫描器：
+```bash
 python pro_scanner.py
-
+```
 🇷🇺 Русский
 Мощный, оптимизированный многопоточный CLI-инструмент для сканирования и поиска чистых IP-адресов Cloudflare с наименьшей задержкой. Идеально подходит для обхода сетевых ограничений с использованием VPN и прокси (V2Ray, Xray, WireGuard и др.).
 ✨ Особенности
@@ -114,22 +123,28 @@ python pro_scanner.py
  * 🔄 Настраиваемость: Возможность указать любой порт (например, 443) и количество IP для проверки.
 ⚙️ Установка и запуск
 1. Клонирование репозитория:
+```bash
+
 git clone [https://github.com/murtaza-codes/cloudflare-scanner-pro.git](https://github.com/murtaza-codes/cloudflare-scanner-pro.git)
 cd cloudflare-scanner-pro
-
+```
 2. Установка зависимостей (Windows / Linux / macOS):
 pip install rich
 
 📱 Для Android (Termux):
+```bash
+
 pkg update && pkg upgrade
 pkg install python git
 git clone [https://github.com/murtaza-codes/cloudflare-scanner-pro.git](https://github.com/murtaza-codes/cloudflare-scanner-pro.git)
 cd cloudflare-scanner-pro
 pip install rich
-
+```
 3. Запуск сканера:
+```bash
 python pro_scanner.py
-
+```
 <div align="center">
-<p>Developed with ❤️ by <a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/murtaza-codes">Murtaza Akbari</a></p>
+<p>Developed with ❤️ by <a href="https://github.com/murtaza-codes">Murtaza Akbari</a></p>
 </div>
+
